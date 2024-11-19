@@ -185,6 +185,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DONGLE02\Generate Files\BOM\Bill of Materials-DONGLE02.xlsx
 DItemRevisionGUID=
@@ -685,9 +719,9 @@ Configuration1_Item4=Manufacturer P/N=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=110|Description=488|Designator=84|Quantity=56|Supplier=55|Supplier P/N (Cut Tape)=208|Supplier P/N (Tape & Reel)=208|Supplier Web=857|Manufacturer=140|Manufacturer P/N=153
+Configuration1_Item6=Comment=110|Description=488|Designator=84|Quantity=56|Supplier=55|Supplier P/N (Cut Tape)=208|Supplier P/N (Tape & Reel)=208|Supplier Web=857|Manufacturer=140|Manufacturer P/N=153|Datasheet Web=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Comment=110|Description=488|Designator=84|Quantity=56|Supplier=55|Supplier P/N (Cut Tape)=208|Supplier P/N (Tape & Reel)=208|Supplier Web=857|Manufacturer=140|Manufacturer P/N=153
+Configuration1_Item7=Comment=110|Description=488|Designator=84|Quantity=56|Supplier=55|Supplier P/N (Cut Tape)=208|Supplier P/N (Tape & Reel)=208|Supplier Web=857|Manufacturer=140|Manufacturer P/N=153|Datasheet Web=100
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=

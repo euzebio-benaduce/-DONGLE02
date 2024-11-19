@@ -2,55 +2,6 @@
 FileName = DONGLE02.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Component Outline
-      File : DONGLE02.GM2
-
-    Adding Layer      : Top Component Outline
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : DONGLE02.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : DONGLE02.GM7
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DONGLE02.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
 Generating : Bottom Pad Master
       File : DONGLE02.GPB
 
@@ -66,37 +17,6 @@ Used DCodes :
     D39
     D40
     D41
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DONGLE02.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : DONGLE02.GM5
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D43
 *************************************************************
 
 *************************************************************
@@ -122,33 +42,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : DONGLE02.GM1
+Generating : Top Overlay
+      File : DONGLE02.GTO
 
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DONGLE02.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D32
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DONGLE02.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -177,6 +94,89 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : DONGLE02.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DONGLE02.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DONGLE02.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : DONGLE02.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : DONGLE02.GM3
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : DONGLE02.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
 Generating : Bottom Component Outline
       File : DONGLE02.GM4
 
@@ -184,6 +184,60 @@ Generating : Bottom Component Outline
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : DONGLE02.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : DONGLE02.GM2
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : DONGLE02.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DONGLE02.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
@@ -216,78 +270,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : DONGLE02.GM15
+Generating : Top Courtyard
+      File : DONGLE02.GM5
 
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DONGLE02.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Courtyard
 
 
 Used DCodes :
+    D43
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DONGLE02.GTO
+Generating : Top 3D Body
+      File : DONGLE02.GM7
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top 3D Body
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DONGLE02.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : DONGLE02.GM3
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : DONGLE02.GM16
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D11
-    D12
-    D15
 *************************************************************
 
 *************************************************************
